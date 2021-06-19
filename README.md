@@ -1,2 +1,2 @@
 # jenkins
-Ci Cd pipeline practice............
+Ci Cd pipeline practice
