@@ -8,3 +8,14 @@ pipeline {
         }
     }
 }
+
+
+pipeline{
+    agent none {
+        stage('test'){
+            steps{
+                echo "testing"
+            }
+        }
+    }
+}
